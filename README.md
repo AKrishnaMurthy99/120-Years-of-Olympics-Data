@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/fed020e3-2cdc-4c2a-b4dc-823667e1afb0)
+![image](https://github.com/user-attachments/assets/fed020e3-2cdc-4c2a-b4dc-823667e1afb0)                                                        ![image](https://github.com/user-attachments/assets/45206af3-945c-46df-8b96-1def46d96728)
+
 
 
 # 120-Years-of-Olympics-Data
