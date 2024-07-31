@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/fed020e3-2cdc-4c2a-b4dc-823667e1afb0)
+
+
 # 120-Years-of-Olympics-Data
 # Analyzing 120 Years of Olympic Data with SQL and Tableau
 
